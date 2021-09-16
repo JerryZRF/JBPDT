@@ -24,4 +24,5 @@ Java™ 是美国 Oracle（甲骨文）公司的商标。本教程与 Oracle 公
 
 * [知乎](https://www.zhihu.com)，非商业用途且已标明作者及来源
 * [RarityEG's Plugin Dev Tutorial](https://plgdev.xuogroup.top/)，使用 CC-BY-3.0 协议许可
+* [菜鸟教程](https://www.runoob.com/)，其已说明任何网站都可以链接到菜鸟教程的任何页面。
 
